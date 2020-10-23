@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/lutweb/static/css/main.bad1ac63.chunk.css",
+    "main.js": "/lutweb/static/js/main.6320d128.chunk.js",
+    "main.js.map": "/lutweb/static/js/main.6320d128.chunk.js.map",
+    "runtime-main.js": "/lutweb/static/js/runtime-main.fa0ea005.js",
+    "runtime-main.js.map": "/lutweb/static/js/runtime-main.fa0ea005.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/lutweb/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ac5b92dd.chunk.js": "/lutweb/static/js/2.ac5b92dd.chunk.js",
+    "static/js/2.ac5b92dd.chunk.js.map": "/lutweb/static/js/2.ac5b92dd.chunk.js.map",
+    "index.html": "/lutweb/index.html",
+    "precache-manifest.f98d476608146cea392a20bd7b82ca84.js": "/lutweb/precache-manifest.f98d476608146cea392a20bd7b82ca84.js",
+    "service-worker.js": "/lutweb/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/lutweb/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.bad1ac63.chunk.css.map": "/lutweb/static/css/main.bad1ac63.chunk.css.map",
+    "static/js/2.ac5b92dd.chunk.js.LICENSE.txt": "/lutweb/static/js/2.ac5b92dd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/lutweb/static/media/Organo.a5e7f963.ttf",
+    "static/media/logo.png": "/lutweb/static/media/logo.660f9148.png",
+    "static/media/pika.svg": "/lutweb/static/media/pika.867b8511.svg",
+    "static/media/plan1.jpg": "/lutweb/static/media/plan1.547e5cba.jpg",
+    "static/media/plan2.jpg": "/lutweb/static/media/plan2.b3c3d4b2.jpg",
+    "static/media/plan3.jpg": "/lutweb/static/media/plan3.553c59d1.jpg",
+    "static/media/plan4.jpg": "/lutweb/static/media/plan4.c563b49f.jpg",
+    "static/media/video.mp4": "/lutweb/static/media/video.4ce99ec6.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa0ea005.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ac5b92dd.chunk.js",
+    "static/css/main.bad1ac63.chunk.css",
+    "static/js/main.6320d128.chunk.js"
+  ]
+}
