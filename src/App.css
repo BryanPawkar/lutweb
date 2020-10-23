@@ -1,0 +1,190 @@
+@font-face {font-family:"Organo";src:url("Organo.eot?") format("eot"),url("Organo.woff") format("woff"),url("Organo.ttf") format("truetype"),url("Organo.svg#Organocoloredversionat:logomagazin.comorgano-font") format("svg");font-weight:normal;font-style:normal;}
+ul{
+  padding: 1rem;
+}
+.promo{
+  padding: 1rem;
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center;
+}
+.caja{
+  width: 20rem;
+  padding: 1%;
+  flex-grow: 1;
+}
+.caja img{
+  width: 100%;
+}
+.promo h3{
+  color: white;
+  font-size: 1rem;
+  width: 98%;
+  text-align: right;
+}
+.forms{
+  width: 25rem;
+}
+.form{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 5rem;
+  position: relative;
+}
+.form h2{
+  width: 100%;
+  text-transform: uppercase;
+  color: gainsboro;
+  font-family: 'Organo';
+}
+.form label{
+  width: 50%;
+  color: white;
+  padding: 0;
+  padding-top: 1rem;
+  display: flex;
+}
+.form input{
+  background: padding-box;
+  display: block;
+  width: -webkit-fill-available;
+  color: gainsboro;
+}
+.form textarea{
+  width: 100%;
+  height: 5rem;
+  margin-bottom: 1rem;
+  color: gainsboro;
+  background-color: transparent;
+  text-shadow: .5px .5px .5px black;
+}
+.enviar{
+  color: white;
+  padding: .5rem 0;
+}
+.piku{
+  right: 13%;
+  position: absolute;
+  margin-top: 8vh;
+  height: 0;
+  z-index: -1;
+}
+.pika{
+    width: 25rem;
+    filter: drop-shadow(11px 6px 6px rgb(22,15,30, 0.9));
+    z-index: -5;
+}
+.footer{
+  width: 100%;
+  display: flex;
+  color: gainsboro;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.footer a{
+  text-decoration: none;
+  color: rgba(220, 220, 220, 0.404);
+}
+.footer h4{
+  width: 100%;
+  text-align: center;
+}
+.footer h4 a{
+  color: gainsboro;
+}
+.particles{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: auto;
+  z-index: -10;
+  width: 100%;
+  height: 100%;
+}
+.usersForm{
+  background: linear-gradient(90deg, #efb810e3, rgb(223 198 105 / 89%) );
+    margin: 0 auto;
+    padding: 3rem;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-top-right-radius: 50px;
+    margin-bottom: 5rem;
+    padding-bottom: 5rem;
+    box-shadow: 14px 6px 15px 2px #ffffff26;
+}
+.usersForm label{
+  display: flex;
+  flex-grow: 1;
+  width: 30rem;
+  margin: 1rem 2.5rem;
+}
+.usersForm input{
+  width: 15rem;
+  flex-grow: 1;
+  margin-left: 1rem;
+  border-radius: 10px;
+  filter: drop-shadow(2px 4px 6px rgba(255, 81, 0, 0.178));
+  background: #280a3173;
+  color: white;
+  border-color: rgba(255, 145, 0, 0.407);
+    border-top: 0;
+    border-left: 0;
+    align-self: self-start;
+}
+::-webkit-input-placeholder { /* Edge */
+  color: rgb(174, 169, 180);
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: rgb(174, 169, 180);
+}
+
+::placeholder {
+  color: rgb(174, 169, 180);
+}
+.usersForm textarea{
+  flex-grow: 1;
+  margin-left: 1rem;
+  height: 5rem;
+  border-radius: 10px;
+  filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.41));
+  background: #280a3173;
+  color: white;
+  border-color:rgba(255, 145, 0, 0.407);
+    border-top: 0;
+    border-left: 0;
+}
+.usersForm h2{
+  width: 100%;
+  text-align: center;
+  font-family: "Organo";
+}
+.color{
+  margin:  0 2rem;
+}
+.trans{
+  opacity: 0.9;
+}
+.textce{
+  text-align: center;
+}
+.tag a{
+  color: white;
+  font-style: none;
+  text-decoration: none;
+}
+@media only screen and (max-width: 600px) {
+  .piku{
+    filter: opacity(0.5)
+  }
+  .usersForm{
+    width: 100%;
+  }
+}
