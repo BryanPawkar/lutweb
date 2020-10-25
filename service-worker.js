@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lutweb/precache-manifest.f98d476608146cea392a20bd7b82ca84.js"
+  "/lutweb/precache-manifest.1fbc7699533ebd637bde693f43ddb4f5.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d1d847084e95aff3a8921d055024172",
+    "revision": "170d30c5d5a293c1d01712088d6b4e48",
     "url": "/lutweb/index.html"
   },
   {
-    "revision": "e4b1adefcf42acd8e7ed",
+    "revision": "25fe78a0dc1f46fc5906",
     "url": "/lutweb/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "1ea9b32930084f84dd6b",
+    "revision": "ffef45fccb66b66c46cf",
     "url": "/lutweb/static/css/main.bad1ac63.chunk.css"
   },
   {
-    "revision": "e4b1adefcf42acd8e7ed",
-    "url": "/lutweb/static/js/2.ac5b92dd.chunk.js"
+    "revision": "25fe78a0dc1f46fc5906",
+    "url": "/lutweb/static/js/2.0255b77b.chunk.js"
   },
   {
     "revision": "c97fb91e7dd1c7b19ae67fb152a2e6b2",
-    "url": "/lutweb/static/js/2.ac5b92dd.chunk.js.LICENSE.txt"
+    "url": "/lutweb/static/js/2.0255b77b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ea9b32930084f84dd6b",
-    "url": "/lutweb/static/js/main.6320d128.chunk.js"
+    "revision": "ffef45fccb66b66c46cf",
+    "url": "/lutweb/static/js/main.d36dec50.chunk.js"
   },
   {
     "revision": "f8976eb5399a19c53f0f",
